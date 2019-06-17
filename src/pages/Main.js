@@ -15,7 +15,7 @@ function Main() {
         imgArray: [],
         urlArray: [
             {
-                url: "/img/barney.png",
+                url: "../../img/Barney.png",
                 value: 0
             },
             {
